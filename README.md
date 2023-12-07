@@ -1,7 +1,18 @@
 #Yui - MD
 
+My friend tqto
 alicia ( saya sendiri)
-
+David
+Zeltoria
+Yuki
+Arif
+Yan dev
+ibeng
+surya
+junet
+Erka
+Kyu
+Henz
 
 ---------
 
