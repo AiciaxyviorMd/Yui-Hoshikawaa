@@ -35,9 +35,9 @@ const configs = {
 	},
 
 	APIKeys: {
-		"https://api.itsrose.life": "Aliciazyn",
-		"https://api.ibeng.tech": "a5wXu8gj58",
-		"https://api.arifzyn.biz.id": "AR-eLlVFgzoubOH",
+		"https://api.itsrose.life": "You Key ",
+		"https://api.ibeng.tech": "You Key",
+		"https://api.arifzyn.biz.id": "You Key ",
 	},
 };
 
