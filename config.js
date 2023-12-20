@@ -7,7 +7,7 @@ const configs = {
 	// Owner
 	owner: [["6288268142831", "alicia", true]],
 	mods: [],
-	prems: [],
+	prems: [], 
 	// Info
 	packname: "Yui-Hoshikawa",
 	author: "Alicia",
@@ -27,7 +27,6 @@ const configs = {
 	towner: "Owner",
 	tislam: "Islami",
 	ttools: "Tools",
-	'rpg': "Rpg",
 	APIs: {
 		rose: "https://api.itsrose.life",
 		ibeng: "https://api.ibeng.tech",
